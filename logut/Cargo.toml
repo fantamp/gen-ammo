@@ -1,0 +1,8 @@
+[package]
+name = "logut"
+version = "0.1.0"
+authors = ["Andrey Mescheryakov <fantamp@yandex-team.ru>"]
+
+[dependencies]
+flate2 = "0.2"
+twoway = "0.1"

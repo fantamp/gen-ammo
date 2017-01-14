@@ -1,0 +1,10 @@
+[package]
+name = "gen_ammo"
+version = "0.1.0"
+authors = ["Andrey Mescheryakov <fantamp@yandex-team.ru>"]
+
+[dependencies]
+rand = "*"
+logut = { path = "logut" }
+clap = "*"
+twoway = "0.1"
